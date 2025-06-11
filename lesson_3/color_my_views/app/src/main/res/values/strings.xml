@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColorMyViews - Jofrey</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+    <string name="how_to_play">Como Jugar:</string>
+    <string name="tap_the_screen_and_buttons">Presiona la pantalla y los botones</string>
+    <string name="green_btn">Verde</string>
+    <string name="red_btn">Rojo</string>
+    <string name="yellow_btn">Amarillo</string>
+</resources>

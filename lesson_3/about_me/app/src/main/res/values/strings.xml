@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me - Jofrey</string>
+    <string name="nameText">Jofreylin Perez Valdez</string>
+    <string name="bio_text">
+        Cristóbal Colón fue un navegante y explorador italiano que, al servicio de la Corona de Castilla, realizó cuatro viajes a América, siendo el primero de ellos el 12 de octubre de 1492 cuando llegó a la isla de Guanahani, hoy en las Islas Bahamas. Se le considera el descubridor de América para Europa, aunque no fue el primer explorador europeo en llegar al continente.
+
+    </string>
+    <string name="nickname_edit">What is your nickname?</string>
+    <string name="nicknameText">Jofrey</string>
+    <string name="doneButton">Done</string>
+</resources>
